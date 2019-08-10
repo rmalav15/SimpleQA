@@ -36,6 +36,6 @@ def clean_text(text):
 
 
 if __name__ == "__main__":
-    text = " If the solar system were used as a model of an"
+    text = " If the solar's system, were used as a model"
     print("text:", text)
     print("cleaned text:", clean_text(text))
