@@ -20,7 +20,7 @@ def clean_text(text):
     text = text.translate(trantab)
 
     # Remove Digits
-    text = re.sub('\d+', '', text)
+    # text = re.sub('\d+', '', text)
 
     # Remove Urls
     text = re.sub(r'http.?://[^\s]+[\s]?', '', text)
