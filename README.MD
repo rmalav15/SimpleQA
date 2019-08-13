@@ -1,13 +1,14 @@
 ## Introduction
 
-Bidirection Lstm Based Model. [[trained_model]]()
+Bidirection Lstm Based Model. [[trained_model]](https://drive.google.com/file/d/1puO_gOkx17aU-hEExxzCLTCHGieEBP6c/view?usp=sharing)
 
-<img src='./spoonshot.png'>
+<img src='./network.png'>
 
 
 ## Requirement
-- tensorflow
+- tensorflow==1.12.0
 - nltk
+- gensim
 - pandas
 - scikit-learn
 
