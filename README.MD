@@ -14,7 +14,6 @@ Bidirection Lstm Based Model. [[trained_model]](https://drive.google.com/file/d/
 
 ## Getting Started 
 
-1) Extract science_bot in root folder
-2) Run EDA notebook
-3) Training - Run Model notebook
-4) Testing - Run Test notebook  (Change "checkpoint" to trained_model parent folder )
+1) Run EDA notebook
+2) Training - Run Model notebook
+3) Testing - Run Test notebook  (Change "checkpoint" to trained_model parent folder )
