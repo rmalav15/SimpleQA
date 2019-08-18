@@ -1,6 +1,6 @@
 ## Introduction
 
-Bidirection Lstm Based Model. [[trained_model]](https://drive.google.com/file/d/1puO_gOkx17aU-hEExxzCLTCHGieEBP6c/view?usp=sharing)
+Bidirection Lstm Based Model. [[trained_model]](https://drive.google.com/file/d/1puO_gOkx17aU-hEExxzCLTCHGieEBP6c/view?usp=sharing) (Not trained properly, Very low accuracy)
 
 <img src='./network.png'>
 
